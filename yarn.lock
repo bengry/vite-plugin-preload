@@ -32,26 +32,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bengry/vite-plugin-preload@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@bengry/vite-plugin-preload@workspace:."
-  dependencies:
-    "@rollup/pluginutils": ^5.0.2
-    "@types/jsdom": ^20.0.1
-    "@types/node": ^18.11.18
-    "@types/prettier": ^2.7.2
-    del-cli: ^5.0.0
-    jsdom: ^21.0.0
-    prettier: ^2.8.3
-    tsup: ^6.5.0
-    typescript: ^4.9.4
-    vite: ^4.0.4
-    vitest: ^0.27.3
-  peerDependencies:
-    vite: ">=4.0.0"
-  languageName: unknown
-  linkType: soft
-
 "@esbuild/android-arm64@npm:0.16.15":
   version: 0.16.15
   resolution: "@esbuild/android-arm64@npm:0.16.15"
@@ -3354,6 +3334,26 @@ __metadata:
   checksum: f7acf7fcd378edad5ccfc36ced495f8981a69bf7ab60826edb36d4c08afcddf815221f46640e29ea81d1f25bf5719edd8b3c958a3a9e66a89c1fd0fba3be35ac
   languageName: node
   linkType: hard
+
+"vite-plugin-preload-2@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "vite-plugin-preload-2@workspace:."
+  dependencies:
+    "@rollup/pluginutils": ^5.0.2
+    "@types/jsdom": ^20.0.1
+    "@types/node": ^18.11.18
+    "@types/prettier": ^2.7.2
+    del-cli: ^5.0.0
+    jsdom: ^21.0.0
+    prettier: ^2.8.3
+    tsup: ^6.5.0
+    typescript: ^4.9.4
+    vite: ^4.0.4
+    vitest: ^0.27.3
+  peerDependencies:
+    vite: ">=4.0.0"
+  languageName: unknown
+  linkType: soft
 
 "vite@npm:^3.0.0 || ^4.0.0, vite@npm:^4.0.4":
   version: 4.0.4
