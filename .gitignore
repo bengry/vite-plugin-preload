@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/react,node,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,node,yarn
 
@@ -149,6 +148,7 @@ sketch
 # https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
 
 .yarn/*
+.yarn/cache/*
 !.yarn/releases
 !.yarn/plugins
 !.yarn/sdks
