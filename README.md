@@ -1,3 +1,6 @@
+The changes introduced in this fork have been merged to [the main repo](https://github.com/jarlef/vite-plugin-preload). Please use it instead.
+----
+
 # vite-plugin-preload
 
 [![npm version](https://badge.fury.io/js/vite-plugin-preload.svg)](https://badge.fury.io/js/vite-plugin-preload)
